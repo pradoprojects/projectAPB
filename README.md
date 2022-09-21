@@ -12,13 +12,10 @@ I and two undergrad students working under my supervision planned, proposed and 
 </p>
   
 <p>
-The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, team challenges mixed with programming, and even the coding of a time-capsule, where the students hard-coded messages with their forecasts to the next ten years.
+The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, team challenges mixed with programming -- and even the coding of a time-capsule, where the students hard-coded messages with their forecasts to the next ten years.
 </p>
   
-<p>
-The project encompassed playful activities such as handcrafting bracelets with the student's initials in binary ASCII representation, cardboard games, problem-solving challenges, and team challenges mixed with programming. At the end of the project, the students coded a time capsule, where they hard-coded messages with their forecasts for the next ten years.
-</p>
-  
+ 
 <p>
 The project also stimulated the application and participation of women and the LGBTQIA+ audience to promote their inclusion and empowerment in the Brazilian tech field.
 
