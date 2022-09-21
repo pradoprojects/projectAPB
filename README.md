@@ -25,8 +25,15 @@ The project also stimulated the application and participation of women and the L
 </p>
   
 <p>
-<strong>You can check the project's public release here: https://youtu.be/MxRg-xy3myQ </strong>
+<strong>You can check the project's public release here:
+http://www.ifgoias.edu.br/component/content/article/17-ifg/ultimas-noticias/13761-inscricoes-abertas-curso-algoritmos-2 (hit the british flag in the top-bar to translate to english)
+</strong>
+<strong>
+video: https://youtu.be/MxRg-xy3myQ 
+</strong>
 </p>
+
+
 
 <p>
 <strong>You can check the videoclip that we made with the students here: https://youtu.be/xv5OHSXO71w </strong>
